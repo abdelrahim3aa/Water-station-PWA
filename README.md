@@ -1,3 +1,4 @@
+
 # 💧 Water Stations PWA
 
 **A beautifully structured and professional Progressive Web App for Water Stations!**  
@@ -14,7 +15,8 @@
 The **Water Stations PWA** is a full-stack application built with **Laravel** and **Progressive Web App** technologies, offering offline support, API security, and a clean modular architecture.
 
 ---
-
+## to run frontend on local server
+- write on terminal (php -S localhost:4000) you can change the port
 ## 🧱 Main Components
 
 ### 🖥️ Backend - Laravel
